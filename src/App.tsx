@@ -12,7 +12,7 @@ function App() {
       <Navigation />
       <Header />
       <Advantages />
-      <Masters />
+      {/* <Masters /> */}
       <Schedule />
       <Gallery />
       <Footer />
