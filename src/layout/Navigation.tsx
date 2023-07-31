@@ -4,9 +4,9 @@ import { useState } from 'react';
 export default function Navigation() {
   const [isOpen, setIsOpen] = useState(false);
   return (
-    <div className="flex items-center justify-center  sticky top-0 bg-white z-10">
-      <nav className="flex items-center justify-between flex-wrap p-4 max-w-7xl min-w-[260px] ">
-        <div className="flex items-center flex-shrink-0 text-white mr-6 lg:mr-72">
+    <div className="flex items-center justify-center  sticky top-0 bg-white z-10 border-b-2 border-black">
+      <nav className="flex items-center justify-between flex-wrap p-4 max-w-7xl min-w-[260px] sha">
+        <div className="flex items-center flex-shrink-0 text-white mr-6 lg:mr-72 ">
           <a href="/">
             <img
               src={logo}
