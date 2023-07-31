@@ -24,7 +24,7 @@ export default function Masters() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="p-6 bg-white shadow-md flex flex-col items-center justify-center text-center">
                  <img
-              src="../../public/images/master_4.jpeg"
+              src="../images/master_4.jpeg"
               className="w-24 h-24 mr-1 rounded-full"
               alt="True Reality Logo"
             />
@@ -35,7 +35,7 @@ export default function Masters() {
             </div>
             <div className="p-6 bg-white shadow-md flex flex-col items-center justify-center text-center">
                       <img
-              src="../../public/images/master_1.jpeg"
+              src="../images/master_1.jpeg"
               className="w-24 h-24 mr-1 rounded-full"
               alt="True Reality Logo"
             />
@@ -46,7 +46,7 @@ export default function Masters() {
             </div>
             <div className="p-6 bg-white shadow-md flex flex-col items-center justify-center text-center">
                       <img
-              src="../../public/images/master_2.jpeg"
+              src="../images/master_2.jpeg"
               className="w-24 h-24 mr-1 rounded-full"
               alt="True Reality Logo"
             />
@@ -62,7 +62,7 @@ export default function Masters() {
             <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="p-6 bg-white shadow-md flex flex-col items-center justify-center text-center">
                  <img
-              src="../../public/images/master_4.jpeg"
+              src="../images/master_4.jpeg"
               className="w-24 h-24 mr-1 rounded-full"
               alt="True Reality Logo"
             />
@@ -73,7 +73,7 @@ export default function Masters() {
             </div>
             <div className="p-6 bg-white shadow-md flex flex-col items-center justify-center text-center">
                       <img
-              src="../../public/images/master_5.jpeg"
+              src="../images/master_5.jpeg"
               className="w-24 h-24 mr-1 rounded-full"
               alt="True Reality Logo"
             />
@@ -84,7 +84,7 @@ export default function Masters() {
             </div>
             <div className="p-6 bg-white shadow-md flex flex-col items-center justify-center text-center">
                       <img
-              src="../../public/images/master_6.jpeg"
+              src="../images/master_6.jpeg"
               className="w-24 h-24 mr-1 rounded-full"
               alt="True Reality Logo"
             />
