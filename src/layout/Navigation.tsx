@@ -1,4 +1,4 @@
-import logo from '../../public/images/tr_logo.png';
+import logo from '/images/tr_logo.png';
 import { useState } from 'react';
 
 export default function Navigation() {
