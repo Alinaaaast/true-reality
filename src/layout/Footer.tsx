@@ -6,7 +6,7 @@ export default function Footer() {
           <h2 className="text-3xl text-black">Контакти</h2>
           <a
             href="https://www.instagram.com/tr__fest/"
-            className="my-2 hover:scale-110 "
+            className="my-2 hover:scale-110 hover:transition-all ease-linear duration-200 "
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
