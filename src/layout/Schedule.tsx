@@ -1,6 +1,6 @@
 export default function Schedule() {
   return (
-    <section id="schedule" className="py-20">
+    <section id="schedule" className="pt-28">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-center">
           <h2 className="text-3xl font-bold mb-8">Розклад</h2>

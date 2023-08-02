@@ -1,7 +1,7 @@
 export default function Gallery() {
   return (
     <>
-      <div className="flex items-center justify-center">
+      <div className="flex items-center justify-center py-16">
         <h2 className="text-4xl font-bold mb-8">Як це було</h2>
       </div>
       <div className="flex items-center justify-center">

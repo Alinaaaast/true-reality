@@ -3,7 +3,7 @@ export default function Place() {
     <>
       <div
         id="place"
-        className="flex items-center justify-center flex-col py-20"
+        className="flex items-center justify-center flex-col pt-28"
       >
         <h2 className="text-4xl font-bold pb-8 mx-4 ">Місце</h2>
         <div className="flex items-center justify-center  flex-col">

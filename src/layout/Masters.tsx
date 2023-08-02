@@ -17,7 +17,7 @@ export default function Masters() {
         })}
       </div> */}
 
-      <section id="masters" className=" pt-24 ">
+      <section id="masters" className=" pt-28 ">
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-center">
             <h2 className="text-4xl font-bold mb-8">Майстри</h2>
