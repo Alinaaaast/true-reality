@@ -2,7 +2,9 @@ export default function Schedule() {
   return (
     <section id="schedule" className="py-20">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold mb-8">Розклад</h2>
+        <div className="flex items-center justify-center">
+          <h2 className="text-3xl font-bold mb-8">Розклад</h2>
+        </div>
         <table className="min-w-full divide-y divide-gray-200">
           <thead className="bg-gray-100">
             <tr>
@@ -33,7 +35,7 @@ export default function Schedule() {
         </table>
       </div>
 
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-4 mt-8">
         <table className="min-w-full divide-y divide-gray-200">
           <thead className="bg-gray-100">
             <tr>
@@ -82,7 +84,7 @@ export default function Schedule() {
         </table>
       </div>
 
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-4 mt-8">
         <table className="min-w-full divide-y divide-gray-200">
           <thead className="bg-gray-100">
             <tr>

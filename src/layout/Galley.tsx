@@ -1,8 +1,11 @@
 export default function Gallery() {
   return (
     <>
-      <div className="flex items-center justify-center ">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-[900px] m-6">
+      <div className="flex items-center justify-center">
+        <h2 className="text-4xl font-bold mb-8">Як це було</h2>
+      </div>
+      <div className="flex items-center justify-center">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-[900px] m-6 ">
           <div className="grid gap-4">
             <div>
               <img
