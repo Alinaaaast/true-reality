@@ -3,6 +3,13 @@ import { useState } from 'react';
 
 export default function Navigation() {
   const [isOpen, setIsOpen] = useState(false);
+
+  function handleClick() {
+    if (isOpen === true) {
+      setIsOpen(false);
+    }
+  }
+
   return (
     <div className="flex items-center justify-center  sticky top-0 bg-white z-10  border-black shadow-[0_35px_60px_-15px_rgba(0,0,0,0.3)] scroll-smooth">
       <nav className="flex items-center justify-between flex-wrap p-4 max-w-7xl min-w-[260px] ">
@@ -45,24 +52,28 @@ export default function Navigation() {
             <a
               href="/#masters"
               className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4"
+              onClick={handleClick}
             >
               Майстри
             </a>
             <a
               href="/#schedule"
               className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4"
+              onClick={handleClick}
             >
               Розклад
             </a>
             <a
               href="/#place"
               className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4"
+              onClick={handleClick}
             >
               Місце
             </a>
             <a
               href="/#contacts"
               className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4"
+              onClick={handleClick}
             >
               Контакти
             </a>

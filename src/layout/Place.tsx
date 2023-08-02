@@ -1,18 +1,18 @@
 export default function Place() {
   return (
     <>
-      <div className="flex items-center justify-center flex-col">
-        <h2 className="text-4xl font-bold my-8 mx-4 ">Місце</h2>
+      <div
+        id="place"
+        className="flex items-center justify-center flex-col py-20"
+      >
+        <h2 className="text-4xl font-bold pb-8 mx-4 ">Місце</h2>
         <div className="flex items-center justify-center  flex-col">
           <span className="text-3xl text-black">Skvo space </span>
           <p className="my-2"> Оазис твого міста, Київ</p>
         </div>
-        <div
-          id="place"
-          className="flex flex-col lg:flex-row items-center justify-center gap-10 my-10 mx-4 container"
-        >
+        <div className="flex flex-col md:flex-row items-center justify-center gap-10 my-10 mx-4 container">
           <div className="mx-4">
-            <div className="">
+            <div className="md:w-[400px]">
               <img
                 src="../images/skvo_space.jpg"
                 className="w-[100%] "
