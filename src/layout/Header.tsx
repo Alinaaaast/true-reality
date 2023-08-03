@@ -8,11 +8,10 @@ export default function Header() {
               <span className="text-white text-3xl md:text-6xl w-3/4 text-center uppercase font-bold">
                 True Reality Festival
               </span>
-              {/* <p className="text-white text-center mt-8">
-                {' '}
+              <p className="text-white text-center mt-8">
                 13.08
                 <br></br> SKVOspace, Київ
-              </p> */}
+              </p>
               <p className="text-white mt-8 text-md md:text-2xl max-w-xl text-center px-8">
                 Місце, де всі свої, де всі такі різні, але чимось дуже схожі на
                 тебе. Місце, де ти почуваєш себе вільно.

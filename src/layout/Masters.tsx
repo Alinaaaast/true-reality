@@ -177,7 +177,7 @@ export default function Masters() {
                 className="w-44 h-44 mr-1 rounded-full"
                 alt="True Reality Logo"
               />
-              <h3 className="text-xl font-bold my-4">Олег лего</h3>
+              <h3 className="text-xl font-bold my-4">Олег Лего</h3>
               <p className="text-gray-700 text-start">
                 <ul className="list-disc">
                   <li>Сертифікований викладач хатха-йоги.</li>
