@@ -48,7 +48,13 @@ export default function Navigation() {
             isOpen ? 'block' : 'hidden'
           }`}
         >
-          <div className="text-base lg:flex-grow flex flex-col lg:flex-row items-center justify-center absolute top-50 left-0 right-0 bg-white lg:relative py-4 lg:py-0 shadow-[0_12px_18px_-5px_rgba(0,0,0,0.3)]">
+          <div
+            className={`text-base lg:flex-grow flex flex-col lg:flex-row items-center justify-center absolute top-50 left-0 right-0 bg-white lg:relative py-4 lg:py-0 ${
+              isOpen
+                ? 'shadow-[0_12px_18px_-5px_rgba(0,0,0,0.3)]'
+                : 'shadow-none'
+            }`}
+          >
             <a
               href="/#masters"
               className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4"

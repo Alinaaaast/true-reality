@@ -72,9 +72,6 @@ export default function Masters() {
                 музикант, енергопрактик, психолог, звукотерапевт
               </p>
             </div>
-          </div>
-
-          <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-center text-center">
               <img
                 src="../images/master_4.jpeg"
@@ -130,9 +127,6 @@ export default function Masters() {
                 </ul>
               </p>
             </div>
-          </div>
-
-          <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
               <img
                 src="../images/master_2.jpeg"
@@ -168,9 +162,6 @@ export default function Masters() {
                 характерницького спасу.
               </p>
             </div>
-          </div>
-
-          <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
               <img
                 src="../images/master_10.jpeg"
