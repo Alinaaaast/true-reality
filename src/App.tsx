@@ -6,6 +6,7 @@ import Footer from './layout/Footer';
 import Advantages from './layout/Advantages';
 import Gallery from './layout/Galley';
 import Place from './layout/Place';
+import Price from './layout/Price';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Masters />
       <Schedule />
       <Gallery />
+      <Price />
       <Place />
       <Footer />
     </>
