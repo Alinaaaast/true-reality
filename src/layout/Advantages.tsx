@@ -1,7 +1,7 @@
 export default function Advantages() {
   return (
     <>
-      <section className="py-14 bg-[url('../images/advantages_bg.jpeg')]">
+      <section className="py-14 bg-[url('../images/advantages_bg1.jpeg')]">
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-center">
             <h2 className="text-4xl font-bold mb-12 text-white text-center">
