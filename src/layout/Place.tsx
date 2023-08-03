@@ -14,7 +14,7 @@ export default function Place() {
           <div className="mx-4">
             <div className="md:w-[400px]">
               <img
-                src="../images/skvo_space.jpg"
+                src="../images/skvo_space.jpeg"
                 className="w-[100%] "
                 alt="Skvo space"
               />

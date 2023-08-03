@@ -26,7 +26,7 @@ export default function Masters() {
             <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
               {/* 5px 9px 13px 1px rgba(0,0,0,0.13) */}
               <img
-                src="../images/master_5.jpg"
+                src="../images/master_5.jpeg"
                 className="w-44 h-44 mr-1 rounded-full"
                 alt="True Reality Logo"
               />
@@ -45,7 +45,7 @@ export default function Masters() {
             </div>
             <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
               <img
-                src="../images/master_6.jpg"
+                src="../images/master_6.jpeg"
                 className="w-44 h-44 mr-1 rounded-full"
                 alt="True Reality Logo"
               />
@@ -77,7 +77,7 @@ export default function Masters() {
           <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-center text-center">
               <img
-                src="../images/master_4.jpg"
+                src="../images/master_4.jpeg"
                 className="w-44 h-44 mr-1 rounded-full"
                 alt="True Reality Logo"
               />
@@ -103,7 +103,7 @@ export default function Masters() {
             </div>
             <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
               <img
-                src="../images/master_1.jpg"
+                src="../images/master_1.jpeg"
                 className="w-44 h-44 mr-1 rounded-full"
                 alt="True Reality Logo"
               />
@@ -117,7 +117,7 @@ export default function Masters() {
             </div>
             <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
               <img
-                src="../images/master_3.jpg"
+                src="../images/master_3.jpeg"
                 className="w-44 h-44 mr-1 rounded-full"
                 alt="True Reality Logo"
               />
@@ -135,7 +135,7 @@ export default function Masters() {
           <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
               <img
-                src="../images/master_2.jpg"
+                src="../images/master_2.jpeg"
                 className="w-44 h-44 mr-1 rounded-full"
                 alt="True Reality Logo"
               />
@@ -146,7 +146,7 @@ export default function Masters() {
             </div>
             <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
               <img
-                src="../images/master_8.jpg"
+                src="../images/master_8.jpeg"
                 className="w-44 h-44 mr-1 rounded-full"
                 alt="True Reality Logo"
               />
@@ -166,6 +166,31 @@ export default function Masters() {
                 професійний мандрівник та гід, майстер цигун.<br></br> Почав
                 свій шлях в 2012 зі слов'янських енергопрактик та
                 характерницького спасу.
+              </p>
+            </div>
+          </div>
+
+          <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
+              <img
+                src="../images/master_10.jpeg"
+                className="w-44 h-44 mr-1 rounded-full"
+                alt="True Reality Logo"
+              />
+              <h3 className="text-xl font-bold my-4">Олег лего</h3>
+              <p className="text-gray-700 text-start">
+                <ul className="list-disc">
+                  <li>Сертифікований викладач хатха-йоги.</li>
+                  <li>
+                    Особиста практика йоги більше 10 років, практика викладання
+                    більше 3 років.
+                  </li>
+                  <li>
+                    Провідник в практиках цвяхостояння, провідник в світ
+                    звукових, музичних медитацій, саундхілінгу і чайних
+                    церемоній.
+                  </li>
+                </ul>
               </p>
             </div>
           </div>

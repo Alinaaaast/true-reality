@@ -1,7 +1,7 @@
 export default function Advantages() {
   return (
     <>
-      <section className="py-14 bg-[url('../images/advantages_bg.jpg')]">
+      <section className="py-14 bg-[url('../images/advantages_bg.jpeg')]">
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-center">
             <h2 className="text-4xl font-bold mb-12 text-white text-center">
@@ -12,7 +12,7 @@ export default function Advantages() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="p-6 bg-white shadow-md rounded-lg">
               <div className="flex items-center justify-center">
-                <div className="w-[60px] md:w-[60px] md:w-[100px] ">
+                <div className="w-[60px] md:w-[100px] ">
                   <svg
                     fill="#000000"
                     version="1.1"

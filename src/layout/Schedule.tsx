@@ -52,7 +52,7 @@ export default function Schedule() {
             </tr>
             <tr>
               <td className="py-4 px-6">12:00 - 14:00</td>
-              <td className="py-4 px-6">Кундаліні йога (Юлія Вакар)</td>
+              <td className="py-4 px-6">Хатха йога (Олег Лего)</td>
             </tr>
             <tr>
               <td className="py-4 px-6">14:00 - 15:30</td>
