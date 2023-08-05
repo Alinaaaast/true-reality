@@ -184,6 +184,18 @@ export default function Masters() {
                 </ul>
               </p>
             </div>
+            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
+              <img
+                src="../images/master_11.jpeg"
+                className="w-44 h-44 mr-1 rounded-full"
+                alt="True Reality Logo"
+              />
+              <h3 className="text-xl font-bold my-4">Любов Макарова</h3>
+              <p className="text-gray-700 text-start">
+                Макарова Любов - присвятила добру половину свого життя вивченню
+                законів музики, властивості звуку, має вищу музичну освіту
+              </p>
+            </div>
           </div>
         </div>
       </section>
