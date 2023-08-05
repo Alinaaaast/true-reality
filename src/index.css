@@ -1,3 +1,39 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.corner-class {
+  --b: 2px; /* thickness of the border */
+  --c: repeating-linear-gradient(
+    90deg,
+    #000 0 7px,
+    transparent 5px 10px
+  ); /* color of the border */
+  --w: 50px; /* width of border */
+
+  padding: var(--b); /* space for the border */
+
+  position: relative;
+  /*Irrelevant code*/
+}
+.corner-class::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: var(
+    --c,
+    repeating-linear-gradient(90deg, #000 0 5px, transparent 5px 10px)
+  );
+  --_g: #0000 90deg, #000 0;
+  --_p: var(--w) var(--w) no-repeat;
+  --mask: conic-gradient(from 90deg at top var(--b) left var(--b), var(--_g)) 0
+      0 / var(--_p),
+    conic-gradient(from 180deg at top var(--b) right var(--b), var(--_g)) 100% 0 /
+      var(--_p),
+    conic-gradient(from 0deg at bottom var(--b) left var(--b), var(--_g)) 0 100% /
+      var(--_p),
+    conic-gradient(from -90deg at bottom var(--b) right var(--b), var(--_g))
+      100% 100% / var(--_p);
+  -webkit-mask: var(--mask);
+  mask: var(--mask);
+}

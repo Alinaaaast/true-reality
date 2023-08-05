@@ -23,18 +23,16 @@ export default function Masters() {
             <h2 className="text-4xl font-bold mb-8">Майстри</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-4">
-            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
-              {/* 5px 9px 13px 1px rgba(0,0,0,0.13) */}
+            <div className=" bg-white  flex flex-col items-center justify-start text-center corner-class">
               <img
                 src="../images/master_5.jpeg"
-                className="w-44 h-44 mr-1 rounded-full"
+                className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
               <h3 className="text-xl font-bold my-4">Катерина Духовнікова</h3>
-              <p className="text-gray-700 text-start">
+              <p className=" text-gray-700 text-start mx-8 mb-8">
                 <ul className="list-disc">
                   <li>
-                    {' '}
                     практикую кармічний менеджмент вже рік та маю класні
                     результати
                   </li>
@@ -43,14 +41,14 @@ export default function Masters() {
                 </ul>
               </p>
             </div>
-            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
+            <div className="p-6 bg-white  flex flex-col items-center justify-start text-center corner-class">
               <img
                 src="../images/master_6.jpeg"
-                className="w-44 h-44 mr-1 rounded-full"
+                className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
               <h3 className="text-xl font-bold my-4">Оксана Бойко</h3>
-              <p className="text-gray-700 text-start">
+              <p className=" text-gray-700 text-start mx-8 mb-8">
                 <ul className="list-disc">
                   <li>Арт-терапевт</li>
                   <li>інтерʼєрний декоратор</li>
@@ -58,28 +56,28 @@ export default function Masters() {
                 </ul>
               </p>
             </div>
-            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
+            <div className="p-6 bg-white   flex flex-col items-center justify-start text-center corner-class">
               <img
                 src="../images/master_7.jpeg"
-                className="w-44 h-44 mr-1 rounded-full"
+                className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
               <h3 className="text-xl font-bold my-4">
                 Альона Пашина та Богдан Яковенко
               </h3>
-              <p className="text-gray-700 text-start">
+              <p className=" text-gray-700 text-start mx-8 mb-8">
                 арт-терапевтка, ілюстраторка та дизайнерка <br></br>--<br></br>
                 музикант, енергопрактик, психолог, звукотерапевт
               </p>
             </div>
-            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-center text-center">
+            <div className="p-6 bg-white   flex flex-col items-center justify-center text-center corner-class">
               <img
                 src="../images/master_4.jpeg"
-                className="w-44 h-44 mr-1 rounded-full"
+                className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
               <h3 className="text-xl font-bold my-4">Рада</h3>
-              <p className="text-gray-700 text-start">
+              <p className=" text-gray-700 text-start mx-8 mb-8">
                 <ul className="list-disc">
                   <li>
                     більше 5 років пишу зцілюючі енергетичні казки по запиту,
@@ -98,28 +96,28 @@ export default function Masters() {
                 </ul>
               </p>
             </div>
-            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
+            <div className="p-6 bg-white   flex flex-col items-center justify-start text-center corner-class">
               <img
                 src="../images/master_1.jpeg"
-                className="w-44 h-44 mr-1 rounded-full"
+                className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
               <h3 className="text-xl font-bold my-4">
                 Олексій Ситянов та Енджі
               </h3>
-              <p className="text-gray-700 text-start">
+              <p className=" text-gray-700 text-start mx-8 mb-8">
                 гештальт та процесуальний терапевт <br></br>--<br></br>
                 гештальт терапевт
               </p>
             </div>
-            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
+            <div className="p-6 bg-white   flex flex-col items-center justify-start text-center corner-class">
               <img
                 src="../images/master_3.jpeg"
-                className="w-44 h-44 mr-1 rounded-full"
+                className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
               <h3 className="text-xl font-bold my-4">Вікторія Стеблина</h3>
-              <p className="text-gray-700 text-start">
+              <p className=" text-gray-700 text-start mx-8 mb-8">
                 <ul className="list-disc">
                   <li>Хіромант</li>
                   <li>4 роки активної практики аналізування долонь</li>
@@ -127,49 +125,49 @@ export default function Masters() {
                 </ul>
               </p>
             </div>
-            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
+            <div className="p-6 bg-white   flex flex-col items-center justify-start text-center corner-class">
               <img
                 src="../images/master_2.jpeg"
-                className="w-44 h-44 mr-1 rounded-full"
+                className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
               <h3 className="text-xl font-bold my-4">Андрій Литвин</h3>
-              <p className="text-gray-700 text-start">
+              <p className=" text-gray-700 text-start mx-8 mb-8">
                 провідник у світ цвяхостояння на дошках Садху
               </p>
             </div>
-            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
+            <div className="p-6 bg-white   flex flex-col items-center justify-start text-center corner-class">
               <img
                 src="../images/master_8.jpeg"
-                className="w-44 h-44 mr-1 rounded-full"
+                className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
               <h3 className="text-xl font-bold my-4">Валерія Созонік</h3>
-              <p className="text-gray-700 text-start">
+              <p className=" text-gray-700 text-start mx-8 mb-8">
                 гештальт-терапевтка, яка ставить на дошки Садху
               </p>
             </div>
-            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
+            <div className="p-6 bg-white   flex flex-col items-center justify-start text-center corner-class">
               <img
                 src="../images/master_9.jpeg"
-                className="w-44 h-44 mr-1 rounded-full"
+                className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
               <h3 className="text-xl font-bold my-4">Олександр Радука</h3>
-              <p className="text-gray-700 text-start">
+              <p className=" text-gray-700 text-start mx-8 mb-8">
                 професійний мандрівник та гід, майстер цигун.<br></br> Почав
                 свій шлях в 2012 зі слов'янських енергопрактик та
                 характерницького спасу.
               </p>
             </div>
-            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
+            <div className="p-6 bg-white   flex flex-col items-center justify-start text-center corner-class">
               <img
                 src="../images/master_10.jpeg"
-                className="w-44 h-44 mr-1 rounded-full"
+                className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
               <h3 className="text-xl font-bold my-4">Олег Лего</h3>
-              <p className="text-gray-700 text-start">
+              <p className=" text-gray-700 text-start mx-8 mb-8">
                 <ul className="list-disc">
                   <li>Сертифікований викладач хатха-йоги.</li>
                   <li>
@@ -184,14 +182,14 @@ export default function Masters() {
                 </ul>
               </p>
             </div>
-            <div className="p-6 bg-white shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)] flex flex-col items-center justify-start text-center">
+            <div className="p-6 bg-white   flex flex-col items-center justify-start text-center corner-class">
               <img
                 src="../images/master_11.jpeg"
-                className="w-44 h-44 mr-1 rounded-full"
+                className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
               <h3 className="text-xl font-bold my-4">Любов Макарова</h3>
-              <p className="text-gray-700 text-start">
+              <p className=" text-gray-700 text-start mx-8 mb-8">
                 Макарова Любов - присвятила добру половину свого життя вивченню
                 законів музики, властивості звуку, має вищу музичну освіту
               </p>
@@ -202,3 +200,5 @@ export default function Masters() {
     </div>
   );
 }
+
+//  shadow-[9px_9px_11px_-6px_rgba(0,0,0,0.13)]
