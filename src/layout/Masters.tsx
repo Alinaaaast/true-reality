@@ -25,19 +25,28 @@ export default function Masters() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-4">
             <div className=" bg-white  flex flex-col items-center justify-start text-center corner-class">
               <img
-                src="../images/master_5.jpeg"
+                src="../images/master_12.jpeg"
                 className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
-              <h3 className="text-xl font-bold my-4">Катерина Духовнікова</h3>
+              <h3 className="text-xl font-bold my-4">Аня Акіншина</h3>
+              <h2 className="text-l font-bold my-4">МК з плетіння Лули</h2>
               <p className=" text-gray-700 text-start mx-8 mb-8">
                 <ul className="list-disc">
                   <li>
-                    практикую кармічний менеджмент вже рік та маю класні
-                    результати
+                  Я Аня - творча шаманка. 
+Взаємодію із кристалами, вивчаю поглиблено створення амулетів, оберегів. 
+Духовний провідник.
+Провідник у трансформаційній грі Ліла.
+Люблю творити красу та бути музою.
+
                   </li>
-                  <li> сертифікований практик 1го ступеня йоги Леді Нігуми</li>
-                  <li> практик та майбутній провідник у світ house healing</li>
+                  <li> На фестивалі проведу майстер клас з плетіння Лули.
+
+Лула - це чарівна прикраса для волосся, яке плететься із вощеної ниточки та натуральних камінчиків.
+
+Часто лулу плетуть в якості оберегу, а також вплітають в волосся з наміром, або загадують бажання.</li>
+                  <li> </li>
                 </ul>
               </p>
             </div>

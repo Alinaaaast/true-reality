@@ -9,7 +9,7 @@ export default function Header() {
                 True Reality Festival
               </span>
               <p className="text-white text-center mt-8">
-                13.08
+                25.05
                 <br></br> SKVOspace, Київ
               </p>
               <p className="text-white mt-8 text-md md:text-2xl max-w-xl text-center px-8">
