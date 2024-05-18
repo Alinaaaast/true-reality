@@ -13,7 +13,7 @@ export default function Navigation() {
   return (
     <div className="flex items-center justify-center  sticky top-0 bg-white z-10  border-black shadow-[0_12px_18px_-5px_rgba(0,0,0,0.3)] scroll-smooth">
       <nav className="flex items-center justify-between flex-wrap p-4 max-w-7xl min-w-[260px] ">
-        <div className="flex items-center flex-shrink-0 text-white mr-6 lg:mr-72 ">
+        <div className="flex items-center flex-shrink-0 text-white  lg:mr-72 ">
           <a href="/">
             <img
               src={logo}
