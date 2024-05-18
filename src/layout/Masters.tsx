@@ -10,7 +10,7 @@
 
 export default function Masters() {
   return (
-    <div className=" max-w-[200] flex items-center justify-center flex-col ">
+    <div className=" max-w-[190] flex items-center justify-center flex-col ">
       {/* <div className="flex flex-wrap gap-8 max-w-[900px] items-center justify-center py-8">
         {mastersJSON.map(({ name, photo }) => {
           return <Card masterName={name} masterPhoto={photo} key={name} />;
