@@ -56,9 +56,13 @@ export default function Masters() {
                 className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
-              <h3 className="text-xl font-bold my-4">Оксана Бойко</h3>
+              <h3 className="text-xl font-bold my-4">Захар Литвиненко</h3>
+              <h2 className="text-l font-bold my-4">    Чайна церемонія</h2>
               <p className=" text-gray-700 text-start mx-8 mb-8">
                 <ul className="list-disc">
+            
+
+
                   <li>Арт-терапевт</li>
                   <li>інтерʼєрний декоратор</li>
                   <li>дослідниця теорії «Архетипи в інтерʼєрі»</li>
