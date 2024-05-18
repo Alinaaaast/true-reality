@@ -52,17 +52,16 @@ export default function Price() {
                 </div>
               </div>
 
-              <div className=" flex items-center justify-center">
-                <a
-                  href="https://www.instagram.com/tr__fest"
-                  className="text-white bg-orange-700 hover:bg-orange-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-orange-600 dark:hover:bg-orange-700 focus:outline-none dark:focus:ring-orange-800 max-w-[100px]"
-                >
-                  Зареєструватись
-                </a>
-              </div>
-
               {/* Plan 2 and Plan 3 */}
               {/* Add similar code for additional plans */}
+            </div>
+            <div className=" flex items-center justify-center">
+              <a
+                href="https://www.instagram.com/tr__fest"
+                className="text-white bg-orange-700 hover:bg-orange-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-orange-600 dark:hover:bg-orange-700 focus:outline-none dark:focus:ring-orange-800 "
+              >
+                Зареєструватись
+              </a>
             </div>
           </div>
         </div>
