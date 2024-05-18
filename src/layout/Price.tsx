@@ -15,7 +15,7 @@ export default function Price() {
                   <h3 className="text-2xl leading-6 font-medium text-gray-900">
                     Early birds
                   </h3>
-                  <p className="mt-4 text-md text-gray-500">до 5.08</p>
+                  <p className="mt-4 text-md text-gray-500">до 12.05</p>
                   <div className="mt-6">
                     <div className="text-3xl font-semibold text-gray-900">
                       800 грн
@@ -29,7 +29,7 @@ export default function Price() {
                   <h3 className="text-2xl leading-6 font-medium text-gray-900">
                     Золота середина
                   </h3>
-                  <p className="mt-4 text-md text-gray-500">3 6.08 по 12.08</p>
+                  <p className="mt-4 text-md text-gray-500">3 13.05 по 24.05</p>
                   <div className="mt-6">
                     <div className="text-3xl font-semibold text-gray-900">
                       1000 грн
@@ -43,7 +43,7 @@ export default function Price() {
                   <h3 className="text-2xl leading-6 font-medium text-gray-900">
                     В день заходу
                   </h3>
-                  <p className="mt-4 text-md text-gray-500">13.08</p>
+                  <p className="mt-4 text-md text-gray-500">25.05</p>
                   <div className="mt-6">
                     <div className="text-3xl font-semibold text-gray-900">
                       1 200 грн
@@ -51,6 +51,13 @@ export default function Price() {
                   </div>
                 </div>
               </div>
+
+              <a
+                href="#"
+                class="text-white bg-orange-700 hover:bg-orange-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-orange-600 dark:hover:bg-orange-700 focus:outline-none dark:focus:ring-orange-800"
+              >
+                Зареєструватись
+              </a>
 
               {/* Plan 2 and Plan 3 */}
               {/* Add similar code for additional plans */}
