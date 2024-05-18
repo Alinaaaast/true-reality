@@ -22,6 +22,8 @@ export default function Navigation() {
             />
           </a>
         </div>
+        <div className="block lg:hidden">25/05</div>
+
         <div className="block lg:hidden">
           <button
             onClick={() => setIsOpen(!isOpen)}

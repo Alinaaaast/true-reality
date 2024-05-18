@@ -179,7 +179,7 @@ export default function Masters() {
             </div>
             <div className="p-6 bg-white   flex flex-col items-center justify-start text-center corner-class">
               <img
-                src="../images/master_3.jpeg"
+                src="../images/master_19.jpeg"
                 className="w-44 h-44 mr-1 mt-2 rounded-full"
                 alt="True Reality Logo"
               />
@@ -313,7 +313,9 @@ export default function Masters() {
                 alt="True Reality Logo"
               />
               <h3 className="text-xl font-bold my-4">Дар'я Стрельнікова</h3>
-              <h2 className="text-l font-bold my-4">Йога</h2>
+              <h2 className="text-l font-bold my-4">
+                Трансформаційна гра "Фінансова свобода"
+              </h2>
 
               <p className=" text-gray-700 text-start mx-8 mb-8">
                 <ul className="list-disc">
