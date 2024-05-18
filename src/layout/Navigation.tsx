@@ -22,7 +22,9 @@ export default function Navigation() {
             />
           </a>
         </div>
-        <div className="block lg:hidden">25/05</div>
+        <div className="block lg:hidden">
+          <span>Київ, 25/05</span>
+        </div>
 
         <div className="block lg:hidden">
           <button
