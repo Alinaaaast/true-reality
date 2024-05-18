@@ -15,20 +15,30 @@ export default function Schedule() {
             <tr>
               <td className="py-4 px-6">13:00 - 14:00</td>
               <td className="py-4 px-6">
-                Лекція "Карма грошей. Звідки насправді походить багатство"
-                (Катерина Духовнікова)
+                Лекція "Жива Матерія" (Олександр Хоменко)
               </td>
             </tr>
             <tr>
-              <td className="py-4 px-6">14:00 - 15:30</td>
+              <td className="py-4 px-6">14:00 - 15:00</td>
               <td className="py-4 px-6">
-                МК "Музика високих вібрацій" (Любов Макарова - Exidmusic)
+                Сатсанг з книгою "Два життя". Духовні істини і буденність
+                (Олександр Радука)
               </td>
             </tr>
             <tr>
-              <td className="py-4 px-6">16:00- 18:00</td>
+              <td className="py-4 px-6">15:00- 17:00</td>
               <td className="py-4 px-6">
-                МК "Інтеграція Тіні" (Олексій Ситянов та Енджі)
+                МК "Стосунки зі смертю (і життям)" (Саша Некіпелова)
+              </td>
+            </tr>
+            <tr>
+              <td className="py-4 px-6">17:00- 18:00</td>
+              <td className="py-4 px-6">Нетворкінг </td>
+            </tr>
+            <tr>
+              <td className="py-4 px-6">18:00- 20:00</td>
+              <td className="py-4 px-6">
+                Тілесно-перформативний воркшоп (Ігар Мельник)
               </td>
             </tr>
           </tbody>
@@ -44,40 +54,51 @@ export default function Schedule() {
           </thead>
           <tbody className="bg-white divide-y divide-gray-200">
             <tr>
-              <td className="py-4 px-6">11:00 - 12:00</td>
-              <td className="py-4 px-6">
-                Знайомство. Взаємодія. Формування спільного поля на день.(Ілона
-                Степаненко)
-              </td>
+              <td className="py-4 px-6">12:00 - 13:30</td>
+              <td className="py-4 px-6">Йога (Яна Мотицька)</td>
             </tr>
             <tr>
               <td className="py-4 px-6">12:00 - 14:00</td>
-              <td className="py-4 px-6">Хатха йога (Олег Лего)</td>
+              <td className="py-4 px-6">МК з плетіння Лули (Аня Акіншина)</td>
             </tr>
             <tr>
-              <td className="py-4 px-6">14:00 - 15:30</td>
-              <td className="py-4 px-6">
-                Лекція "Як зцілити проблеми зі здоровʼям за допомогою рослинного
-                харчування?" (Марія Манч)
-              </td>
+              <td className="py-4 px-6">13:30 - 15:00</td>
+              <td className="py-4 px-6">Чайна церемонія (Захар Литвиненко)</td>
             </tr>
             <tr>
-              <td className="py-4 px-6">16:00 - 18:00</td>
-              <td className="py-4 px-6">
-                Арт-терапія "Подорож до себе" (Оксана Бойко)
-              </td>
-            </tr>
-            <tr>
-              <td className="py-4 px-6">16:00 - 18:00</td>
+              <td className="py-4 px-6">14:00 - 15:00</td>
               <td className="py-4 px-6">
                 Експрес-консультації з хіромантії (Вікторія Стеблина)
               </td>
             </tr>
             <tr>
+              <td className="py-4 px-6">14:00 - 15:00</td>
+              <td className="py-4 px-6">
+                MK "Свічка на здійснення твого наміру" (Оля Білокриницька)
+              </td>
+            </tr>
+            <tr>
+              <td className="py-4 px-6">15:00 - 17:00</td>
+              <td className="py-4 px-6">
+                Аромацеремонія (Альона Оксюта) - мк буде проходити в шатрі
+                @wspace_kyiv
+              </td>
+            </tr>
+            <tr>
+              <td className="py-4 px-6">17:00- 18:00</td>
+              <td className="py-4 px-6">Нетворкінг </td>
+            </tr>
+            <tr>
               <td className="py-4 px-6">18:00 - 20:00</td>
               <td className="py-4 px-6">
-                Ecstatic Dance + sound healing (Богдан Яковенко та Альона
-                Пашина)
+                Трансформаційна гра "Фінансова свобода" (Дарʼя Стрельнікова)
+              </td>
+            </tr>
+
+            <tr>
+              <td className="py-4 px-6">20:00 - 21:00</td>
+              <td className="py-4 px-6">
+                Ecstatic Dance (Олександра Грінченко та Олександра Синиця)
               </td>
             </tr>
           </tbody>
@@ -93,23 +114,24 @@ export default function Schedule() {
           </thead>
           <tbody className="bg-white divide-y divide-gray-200">
             <tr>
-              <td className="py-4 px-6">12:00 - 14:00</td>
+              <td className="py-4 px-6">15:00 - 17:00</td>
               <td className="py-4 px-6">
-                Трансформаційна гра "Опора на себе" (Рада)
+                Мантра-джем (Богдан Яковенко та Альона Пашина)
               </td>
             </tr>
             <tr>
-              <td className="py-4 px-6">14:00 - 15:30</td>
-              <td className="py-4 px-6">
-                Суглобово-хвильова гімнастика та динамічний цигун" Три
-                досконалості" (Олександр Радука)
-              </td>
+              <td className="py-4 px-6">17:00- 18:00</td>
+              <td className="py-4 px-6">Нетворкінг </td>
             </tr>
             <tr>
-              <td className="py-4 px-6">16:00 - 18:00</td>
+              <td className="py-4 px-6">18:00 - 20:00</td>
               <td className="py-4 px-6">
                 Цвяхостояння на дошках Садху (Андрій Литвин та Валерія Созонік)
               </td>
+            </tr>
+            <tr>
+              <td className="py-4 px-6">12:00 - 20:00</td>
+              <td className="py-4 px-6">Маркет</td>
             </tr>
           </tbody>
         </table>
