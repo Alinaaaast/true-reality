@@ -58,7 +58,7 @@ export default function Price() {
             <div className=" flex items-center justify-center">
               <a
                 href="https://www.instagram.com/tr__fest"
-                className="text-white bg-[f1711b] hover:bg-orange-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-orange-600 dark:hover:bg-orange-700 focus:outline-none dark:focus:ring-orange-800 mt-8"
+                className="text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900"
               >
                 Зареєструватись
               </a>
